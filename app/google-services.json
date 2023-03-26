@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918134682438",
+    "project_id": "doskajava2",
+    "storage_bucket": "doskajava2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918134682438:android:280c97ae4c7ba4e6772b47",
+        "android_client_info": {
+          "package_name": "com.yakse.doska_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918134682438-r1go7hd006ufoq4kuju6au2eoinn1bal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4NrNR5zRVd9Wlh1Arzdt6kj-z7NMfCMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918134682438-r1go7hd006ufoq4kuju6au2eoinn1bal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
